@@ -10,4 +10,13 @@ Irfan
 Zain shah
 12105068
 12105008
+<<<<<<< HEAD
 
+=======
+hello
+Repository
+Zain shah
+zubair sheikh
+zain shah
+zubair sheikh
+>>>>>>> origin/master
